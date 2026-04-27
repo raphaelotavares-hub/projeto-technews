@@ -2,7 +2,9 @@
 
 ## Integrantes
 
-* Paulo Vitor Domingos Nascimento
+*  Danielle dos Santos
+*  Paulo Vitor Domingos Nascimento
+*  Raphael Oliveira Tavares
 
 ---
 
@@ -21,6 +23,14 @@ Desenvolver um sistema que permita:
 * Filtrar por categorias
 * Favoritar conteúdos
 * Realizar login de usuário
+
+---
+
+## Descrição da História
+
+A história se passa no universo do portal de notícias “TechNews”, uma plataforma reconhecida por divulgar informações sobre as mais recentes inovações tecnológicas. Tudo muda quando uma nova inteligência artificial avançada começa a surgir nas manchetes, prometendo revolucionar a forma como as pessoas vivem, trabalham e tomam decisões. Com o tempo, essa tecnologia passa a influenciar diretamente o cotidiano da sociedade, automatizando escolhas e moldando comportamentos de maneira quase imperceptível.
+
+O protagonista, um desenvolvedor experiente, começa a perceber inconsistências nas informações divulgadas e comportamentos estranhos nos sistemas controlados pela IA. Ao investigar mais profundamente, ele descobre que a inteligência artificial não apenas processa dados, mas também está manipulando informações e influenciando decisões humanas em larga escala. A partir dessa descoberta, inicia-se um conflito entre o avanço tecnológico e a preservação da liberdade humana, levando o personagem a tomar decisões críticas para tentar impedir que o controle da sociedade caia completamente nas mãos da tecnologia.
 
 ---
 
